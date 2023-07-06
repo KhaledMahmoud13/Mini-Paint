@@ -1,1 +1,1 @@
-# Mini-Paint
+# Mini Paint
